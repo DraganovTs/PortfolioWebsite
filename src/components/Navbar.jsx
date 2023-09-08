@@ -39,7 +39,7 @@ const Navbar = () => {
               className={`${active === Link.title
                 ? 'text-white'
                 : 'text-secondary'
-                } hoover:text-white text=[18px]
+                } hover:text-white text=[18px]
               font-medium cursor-pointer`}
               onClick={() => setActive(Link.title)}
             >
