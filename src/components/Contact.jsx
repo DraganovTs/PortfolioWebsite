@@ -95,8 +95,8 @@ const Contact = () => {
             <span className="text-white
               font-medium mb-4">Your Email</span>
             <input
-              type="email"
-              name="email"
+              type=""
+              name=""
               value={form.email}
               onChange={handleChange}
               placeholder="What's your Email?"
