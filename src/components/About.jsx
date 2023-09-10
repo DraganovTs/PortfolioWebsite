@@ -49,14 +49,7 @@ const About = () => {
         className='mt-4 text=secondary text-[17px]
     max-w-3xl leading-[30px]'
       >
-        I,m a skilled software developer whit
-        experience in Java , SpringBoot ,
-        DB and a lot of 3D software programs...
-        I,m quick learner and collaboorate closely whit
-        clients to create efficient , scalable, and
-        user-friendly solutions that solve
-        real-world problem. Let's work together
-        to bring your ideas to life!
+       "I am an aspiring software enthusiast with a passion for Java, SpringBoot, and databases. I'm also venturing into the world of 3D software, eager to explore its depths. As a quick learner, I'm excited to collaborate with clients to create practical, scalable, and user-friendly solutions. Together, we can transform your ideas into reality!"
 
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
