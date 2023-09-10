@@ -16,7 +16,7 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
+    ps,
     tesla,
     shopify,
     carrent,
@@ -46,7 +46,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Java Developer",
       icon: mobile,
     },
     {
@@ -73,27 +73,27 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
+      name: "MaxScript",
       icon: typescript,
     },
     {
-      name: "React JS",
+      name: "Springboot",
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
+      name: "Kafka",
       icon: redux,
     },
     {
-      name: "Tailwind CSS",
+      name: "MySql",
       icon: tailwind,
     },
     {
-      name: "Node JS",
+      name: "Postgres",
       icon: nodejs,
     },
     {
-      name: "MongoDB",
+      name: "KeyCloak",
       icon: mongodb,
     },
     {
@@ -116,16 +116,16 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Architect",
+      company_name: "PS Design",
+      icon: ps,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "September 2007 - April 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Lead the architectural design process, creating innovative and functional building designs that meet the needs and vision of clients.",
+        "Collaborate closely with cross-functional teams, including interior designers, structural engineers, project managers, and construction professionals, to bring architectural concepts to life.",
+        "Maintain a commitment to high-quality architectural standards throughout all phases of the project, from design to construction.",
+        "Stay updated on architectural trends, emerging technologies, and construction techniques to incorporate innovative solutions into projects",
       ],
     },
     {

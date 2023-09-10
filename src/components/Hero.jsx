@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { styles } from '../styles';
 import { ComputersCanvas } from './canvas';
 
+
 const Hero = () => {
   return (
     <section className='relative w-full h-screen
@@ -21,11 +22,12 @@ const Hero = () => {
               Tsvetomir Draganov</span></h1>
           <p className={`${styles.heroSubText} mt-2
               text-white-100`}>
-            I develop <br className='sm:block hidden' /> 3D visuals,  <br className='sm:block hidden' />web applications <br className='sm:block hidden' /> and <br className='sm:block hidden' /> acrchitecture <br className='sm:block hidden' /> projects
+            I develop <br className='sm:block hidden' /> 3D visuals,  <br className='sm:block hidden' />web applications <br className='sm:block hidden' />... and <br className='sm:block hidden' /> acrchitecture <br className='sm:block hidden' /> projects
           </p>
         </div>
       </div>
       <ComputersCanvas />
+
 
       <div className='absolute xs:bottom-10
       bottom-32 w-full flex justify-center
@@ -51,6 +53,8 @@ const Hero = () => {
       </div>
     </section>
   )
+
+
 }
 
 export default Hero
