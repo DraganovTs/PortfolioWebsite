@@ -16,7 +16,7 @@ import {
     figma,
     docker,
     meta,
-    ps,
+    starbucks,
     tesla,
     shopify,
     carrent,
@@ -118,9 +118,9 @@ import {
     {
       title: "Architect",
       company_name: "PS Design",
-      icon: ps,
+      icon: starbucks,
       iconBg: "#383E56",
-      date: "September 2007 - April 2021",
+      date: "September 2007 - April 2012",
       points: [
         "Lead the architectural design process, creating innovative and functional building designs that meet the needs and vision of clients.",
         "Collaborate closely with cross-functional teams, including interior designers, structural engineers, project managers, and construction professionals, to bring architectural concepts to life.",
@@ -129,11 +129,11 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Architect/3d Artist",
+      company_name: "Red Vertex",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Jan 2013 - Jan 2019",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
