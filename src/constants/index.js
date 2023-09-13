@@ -15,10 +15,10 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    ps,
+    idea,
+    redvertex,
+    vikway,
     carrent,
     jobit,
     tripguide,
@@ -118,9 +118,9 @@ import {
     {
       title: "Architect",
       company_name: "PS Design",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "September 2007 - April 2012",
+      icon: ps,
+      iconBg: "#E6DEDD",
+      date: "September 2007 - April 2015",
       points: [
         "Lead the architectural design process, creating innovative and functional building designs that meet the needs and vision of clients.",
         "Collaborate closely with cross-functional teams, including interior designers, structural engineers, project managers, and construction professionals, to bring architectural concepts to life.",
@@ -131,71 +131,45 @@ import {
     {
       title: "Architect/3d Artist",
       company_name: "Red Vertex",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2013 - Jan 2019",
+      icon: redvertex,
+      iconBg: "#f02925",
+      date: "Jan 2015 - Jan 2020",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Specialize in creating architectural wonders for the world's largest companies.",
+        "Collaborate seamlessly with diverse teams to produce high-quality architectural products.",
+        "Meticulously implement client designs, ensuring perfection in every detail.",
+        "Active in peer reviews, I provide constructive feedback to drive our 3D CGI art and architecture to new heights",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      title: "Architect/3d Artist/Interior Designer",
+      company_name: "IDEA International",
+      icon: idea,
+      iconBg: "#ffffff",
+      date: "Feb 2020 - Apr 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Specialize in creating awe-inspiring architectural and interior projects for privet clients.",
+        "Thrive in cross-functional teams, collaborating seamlessly with designers, product managers, architects, and interior designers to produce high-quality, holistic designs",
+        "Meticulously implement client designs, ensuring perfection in every architectural and interior detail.",
+        "Actively engaged in peer reviews, I provide constructive feedback to elevate our 3D CGI art, architecture, and interior design to unprecedented levels of excellence",
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      title: "Architect/3d Artist/Interior Designer",
+      company_name: "Vik Way",
+      icon: vikway,
+      iconBg: "#192560",
+      date: "May 2022 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Specialize in crafting remarkable architectural and interior projects for industry-leading companies.",
+        "Within multifaceted teams, I seamlessly collaborate with designers, product managers, architects, and interior designers to bring to life high-quality, integrated designs.",
+        "Dedication to detail ensures that client designs are implemented with precision, achieving perfection in both architectural and interior elements.",
+        "Actively contributing to peer reviews, I provide constructive feedback to elevate our 3D CGI art, architecture, and interior design, pushing the boundaries of creative excellence within the company.",
       ],
     },
   ];
   
-  const testimonials = [
-    {
-      testimonial:
-        "The best architech I met in my live!!!",
-      name: "Zlatina Stoilova",
-      designation: "Engeneer",
-      company: "Sofiiska Voda",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
-    },
-    {
-      testimonial:
-        "Best lover ever!!!",
-      name: "Zlatina Stoilova2",
-      designation: "Engeneer2",
-      company: "Sofiiska Voda2",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "So call me baby!!!",
-      name: "Zlatina Stoilova3",
-      designation: "Engeneer3",
-      company: "Sofiiska Voda3",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
-    },
-  ];
-  
+    
   const projects = [
     {
       name: "Car Rent",
@@ -262,4 +236,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences,  projects };
