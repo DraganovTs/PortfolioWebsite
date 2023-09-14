@@ -1,19 +1,19 @@
+import { spring } from "framer-motion";
 import {
     mobile,
     backend,
     creator,
     web,
     javascript,
-    typescript,
+    mysql,
     html,
     css,
-    reactjs,
-    redux,
-    tailwind,
-    nodejs,
-    mongodb,
+    microservice,
+    keycloak,
+    kafka,
+    maxscript,
     git,
-    figma,
+    java,
     docker,
     ps,
     idea,
@@ -23,6 +23,10 @@ import {
     jobit,
     tripguide,
     threejs,
+    postgres,
+    reactjs,
+    
+    
   } from "../assets";
   
   export const navLinks = [
@@ -61,57 +65,58 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
-      icon: html,
+      name: "Java",
+      icon: java,
     },
     {
-      name: "CSS 3",
-      icon: css,
-    },
-    {
-      name: "JavaScript",
-      icon: javascript,
-    },
-    {
-      name: "MaxScript",
-      icon: typescript,
-    },
-    {
-      name: "Springboot",
-      icon: reactjs,
-    },
-    {
-      name: "Kafka",
-      icon: redux,
+      name: "Spring",
+      icon: microservice,
     },
     {
       name: "MySql",
-      icon: tailwind,
+      icon: mysql,
     },
     {
       name: "Postgres",
-      icon: nodejs,
+      icon: postgres,
     },
     {
-      name: "KeyCloak",
-      icon: mongodb,
+      name: "Kafka",
+      icon: kafka,
     },
     {
-      name: "Three JS",
+      name: "Keycloak",
+      icon: keycloak,
+    },
+    {
+      name: "Javascript",
+      icon: javascript,
+    },
+    {
+      name: "Three",
       icon: threejs,
+    },
+    {
+      name: "Html",
+      icon: html,
+    },
+    {
+      name: "Css",
+      icon: css,
+    },
+    {
+      name: "Maxscript",
+      icon: maxscript,
     },
     {
       name: "git",
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
-    },
-    {
       name: "docker",
       icon: docker,
-    },
+    }
+   
   ];
   
   const experiences = [
@@ -177,15 +182,15 @@ import {
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "react",
+          name: "mysql",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "java",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "postgres",
           color: "pink-text-gradient",
         },
       ],
@@ -198,15 +203,15 @@ import {
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
         {
-          name: "react",
+          name: "javascript",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "html",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "git",
           color: "pink-text-gradient",
         },
       ],
@@ -219,15 +224,15 @@ import {
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
         {
-          name: "nextjs",
+          name: "kafka",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "maxscript",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "three",
           color: "pink-text-gradient",
         },
       ],

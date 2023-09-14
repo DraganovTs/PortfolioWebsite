@@ -9,17 +9,19 @@ import close from "./close.svg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
+import java from "./tech/java.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
+import kafka from "./tech/kafka.png";
+import keycloak from "./tech/keycloak.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
+import maxscript from "./tech/maxscript.png";
+import microservice from "./tech/microservice.png";
+import mysql from "./tech/mysql.png";
+import spring from "./tech/spring.png";
 import threejs from "./tech/threejs.svg";
+import postgres from "./tech/postgres.png";
 
 import idea from "./company/idea.png";
 import redvertex from "./company/redvertex.png";
@@ -41,16 +43,18 @@ export {
   close,
   css,
   docker,
-  figma,
+  java,
   git,
   html,
   javascript,
-  mongodb,
-  nodejs,
+  kafka,
+  keycloak,
   reactjs,
-  redux,
-  tailwind,
-  typescript,
+  maxscript,
+  microservice,
+  mysql,
+  spring,
+  postgres,
   threejs,
   ps,
   redvertex,
