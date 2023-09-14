@@ -24,7 +24,7 @@ import {
     tripguide,
     threejs,
     postgres,
-    reactjs,
+    
     
     
   } from "../assets";
@@ -36,7 +36,7 @@ import {
     },
     {
       id: "work",
-      title: "Work",
+      title: "Works",
     },
     {
       id: "contact",
