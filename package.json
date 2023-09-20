@@ -1,9 +1,9 @@
 {
-  "homepage": "http://DraganovTs.github.io/PortfolioWebsite",
   "name": "portfoliowebsite",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "http://DraganovTs.github.io/PortfolioWebsite",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
